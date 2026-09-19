@@ -1,0 +1,18 @@
+﻿  main.c
+C:\src\pong\main.c(54,49): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\src\pong\main.c(61,39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\src\pong\main.c(61,59): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\src\pong\main.c(68,36): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\src\pong\main.c(68,54): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\src\pong\main.c(91,29): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\src\pong\main.c(91,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\src\pong\main.c(91,62): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\src\pong\main.c(91,79): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\src\pong\main.c(93,29): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\src\pong\main.c(93,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\src\pong\main.c(93,62): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\src\pong\main.c(93,79): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\src\pong\main.c(95,22): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\src\pong\main.c(95,34): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\src\pong\main.c(95,42): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  pong.vcxproj -> C:\src\pong\bin\Debug\pong.exe

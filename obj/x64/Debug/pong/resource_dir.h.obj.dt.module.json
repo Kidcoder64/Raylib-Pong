@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\src\\pong\\obj\\x64\\Debug\\pong\\resource_dir.obj",
+            "outputs": [
+                "C:\\src\\pong\\obj\\x64\\Debug\\pong\\resource_dir.h.obj.dt.module.json",
+                "C:\\src\\pong\\obj\\x64\\Debug\\pong\\resource_dir.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
